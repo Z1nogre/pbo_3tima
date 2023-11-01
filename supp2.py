@@ -1,3 +1,4 @@
+# edytdgfd
 import mysql.connector
 # buat connection ke dalam database mysqlnya
 connection = mysql.connector.connect(
